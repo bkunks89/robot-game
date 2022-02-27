@@ -1,0 +1,1 @@
+window.alert("Check out this alert")
